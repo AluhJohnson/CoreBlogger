@@ -1,0 +1,10 @@
+/Users/bretthargreaves/Projects/CoreBlogger/bin/Debug/netcoreapp2.0/CoreBlogger.deps.json
+/Users/bretthargreaves/Projects/CoreBlogger/bin/Debug/netcoreapp2.0/CoreBlogger.runtimeconfig.json
+/Users/bretthargreaves/Projects/CoreBlogger/bin/Debug/netcoreapp2.0/CoreBlogger.runtimeconfig.dev.json
+/Users/bretthargreaves/Projects/CoreBlogger/bin/Debug/netcoreapp2.0/CoreBlogger.dll
+/Users/bretthargreaves/Projects/CoreBlogger/bin/Debug/netcoreapp2.0/CoreBlogger.pdb
+/Users/bretthargreaves/Projects/CoreBlogger/obj/Debug/netcoreapp2.0/CoreBlogger.csproj.CoreCompileInputs.cache
+/Users/bretthargreaves/Projects/CoreBlogger/obj/Debug/netcoreapp2.0/CoreBlogger.AssemblyInfoInputs.cache
+/Users/bretthargreaves/Projects/CoreBlogger/obj/Debug/netcoreapp2.0/CoreBlogger.AssemblyInfo.cs
+/Users/bretthargreaves/Projects/CoreBlogger/obj/Debug/netcoreapp2.0/CoreBlogger.dll
+/Users/bretthargreaves/Projects/CoreBlogger/obj/Debug/netcoreapp2.0/CoreBlogger.pdb
